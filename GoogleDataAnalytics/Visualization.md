@@ -5,7 +5,7 @@
 
 *A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself.
 
-Design thinking for data visualization involves five phases:
+Design Thinking for data visualization involves five phases:
 
 Empathize: Thinking about the emotions and needs of the target audience for the data visualization 
 
