@@ -16,3 +16,6 @@ Ideate: Generating ideas for data visualization
 Prototype: Putting visualizations together for testing and feedback
 
 Test: Showing prototype visualizations to people before stakeholders see them
+
+Dashboard
+A dashboard is a tool that organizes information, typically from multiple data sets, into one central location for tracking, analysis, and simple visualization through charts, graphs, and maps.
