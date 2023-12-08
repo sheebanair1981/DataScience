@@ -19,3 +19,5 @@ Test: Showing prototype visualizations to people before stakeholders see them
 
 Dashboard: 
 A dashboard is a tool that organizes information, typically from multiple data sets, into one central location for tracking, analysis, and simple visualization through charts, graphs, and maps.
+Data interoperability: The ability to integrate data from multiple sources and a key factor
+leading to the successful use of open data among companies and governments
