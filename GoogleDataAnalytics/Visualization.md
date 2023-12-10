@@ -22,3 +22,5 @@ A dashboard is a tool that organizes information, typically from multiple data s
 Data interoperability: The ability to integrate data from multiple sources and a key factor
 leading to the successful use of open data among companies and governments
 data analysis process includes six phases: ask, prepare, process, analyze, share, and act
+
+R is a programming language frequently used for statistical analysis, visualization and other data analysis. 
