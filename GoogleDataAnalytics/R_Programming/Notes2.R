@@ -24,3 +24,9 @@ list("a", 1L, 1.5, TRUE)
 list(list(list(1 , 3, 5)))
 list('Chicago' = 1, 'New York' = 2, 'Los Angeles' = 3)
 
+#There are a few key things to keep in mind when you are working with data frames: 
+#First, columns should be named. 
+#Second, data frames can include many different types of data, like numeric, logical, or character.
+#Finally, elements in the same column should be of the same type.
+#A data frame is a collection of columns–similar to a spreadsheet or SQL table.
+d1 <- data.frame(x = c(1, 2, 3) , y = c(1.5, 5.5, 7.5))
