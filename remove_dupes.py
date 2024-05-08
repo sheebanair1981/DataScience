@@ -15,7 +15,7 @@ ws = wb.active
 column_headers = [cell.value for cell in ws[1]]
 
 # Define the columns to avoid
-values_to_remove = ['KEEP OR DELETE','Version','TransactionID']
+values_to_remove = ['KEEP OR DELETE','VERSION','TransactionID']
 
 # Define the columns to consider for uniqueness
 unique_columns = [x for x in column_headers if x not in values_to_remove]
